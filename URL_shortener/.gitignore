@@ -2,3 +2,4 @@
 bin/*.log
 /db.sqlite3
 /env/
+.idea/
